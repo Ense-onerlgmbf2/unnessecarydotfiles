@@ -1,0 +1,21 @@
+[font.normal]
+family="JetBrainsMono NF"
+style="Regular"
+
+[window]
+decorations="Full"
+opacity=0.92
+blur=false
+decorations_theme_variant="Dark"
+
+[colors.primary]
+background="#1E1E24"
+foreground="#C5C8C6"
+
+[bell]
+animation="EaseOutQuint"
+
+[selection]
+save_to_clipboard=true
+
+

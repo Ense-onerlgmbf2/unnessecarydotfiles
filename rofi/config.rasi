@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun";
+ font: "JetBrainsMono NF 16";
+ icon-theme: "Papirus";
+ }
+@theme "/usr/share/rofi/themes/Arc-Dark.rasi"

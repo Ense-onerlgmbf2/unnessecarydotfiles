@@ -1,1 +1,1 @@
-silly dotfiles incase i lose my system
+silly dotfiles incase I lose my system
